@@ -29,7 +29,7 @@
     "@opentelemetry/sdk-trace-node": "^1.24.1",
     "@opentelemetry/semantic-conventions": "^1.24.1",
     "@svgr/webpack": "^8.1.0",
-    "@t3-oss/env-nextjs": "^0.7.1",
+    "@t3-oss/env-nextjs": "^0.13.8",
     "graphql": "^16.8.1",
     "next": "14.2.26",
     "next-auth": "^4.24.11",
