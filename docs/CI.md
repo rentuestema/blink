@@ -8,3 +8,5 @@ When material changes are made here, they can be enforced by running the respect
 - `./ci/apps/repipe`
 
 Note: `fly` would need to have been configured locally for this to successfully complete (see internal `galoy-deployments` docs for more details).
+
+<!-- Auto-update: 2025-10-13T01:40:39.466727 -->
